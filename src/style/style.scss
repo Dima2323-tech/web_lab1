@@ -1,0 +1,24 @@
+@import url('https://fonts.cdnfonts.com/css/graphik');
+@import "../components/Header/Header.scss";
+@import "../components/Header_Banner/Header_Banner.scss";
+@import "../components/Features/Features.scss";
+@import "../components/Contents/Contents.scss";
+@import "../components/Gallery/Gallery.scss";
+@import "../components/Parthners/Parthners.scss";
+@import "../components/Testimonials/Testimonials.scss";
+@import "../components/VariableFonts/VariableFonts.scss";
+@import "../components/Footer/Footer.scss";
+
+*{
+    margin: 0 auto; 
+    padding: 0;
+}
+
+body{
+    background: #181818;
+    margin: 0;
+    font-family: 'Graphik', sans-serif;
+
+}
+  
+
